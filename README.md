@@ -40,10 +40,3 @@ This project analyzes the Zomato restaurant dataset to extract meaningful insigh
 3. **Categorical Variables Analysis** - Country, City, Cuisines
 4. **Relationship Between Features** - Rating vs Country, etc.
 5. **Visualizations** - Pie charts, bar plots, heatmaps
-
-
-MIT License
-
----
-
-Save this as README.md in your project folder. Want me to create the file directly?
